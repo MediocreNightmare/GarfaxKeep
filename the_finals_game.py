@@ -327,6 +327,7 @@ class FinalsGame(Game):
             "Thermal Vision",
             "Tracking Dart",
             "Vanishing Bomb",
+            "H+ Infuser",
         ]
 
     @staticmethod
@@ -371,6 +372,7 @@ class FinalsGame(Game):
             "Gas Grenade",
             "Proximity Sensor",
             "Zipline",
+            "Breach Drill",
         ]
 
     @staticmethod
@@ -416,6 +418,7 @@ class FinalsGame(Game):
             "Lockbolt",
             "Proximity Sensor",
             "Pyro Mine",
+            "Healing Emitter",
         ]
 
     @staticmethod
